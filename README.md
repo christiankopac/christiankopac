@@ -22,6 +22,10 @@ A clean and professional Typst template to help you craft resumes and cover lett
 
 A plugin for [Obsidian](https://obsidian.md) that integrates with Audiobookshelf, giving you the ability to manage and access your audiobooks directly within Obsidian.
 
+### 🔖 [**Obsidian Koreader Plugin**](https://github.com/christiankopac/obsidian-koreader-plugin)
+
+A plugin for [Obsidian](https://obsidian.md) that syncs highlights and bookmarks from KOReader devices with custom templates and smart organization.
+
 ### 🧑💻 [**Emacs Configuration**](https://github.com/christiankopac/emacs)
 
 A continuously evolving Emacs configuration aimed at optimizing my workflow with powerful, customizable tools and features.
