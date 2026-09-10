@@ -22,8 +22,8 @@ On the side, a few smaller fun projects:
 - 🪏 [**Obsidian KOReader Plugin**](https://github.com/christiankopac/obsidian-koreader-plugin)\
   Syncs highlights and bookmarks from KOReader devices into [Obsidian](https://obsidian.md), with custom templates and smart organization.
 
-- 🫩 **Enmacs**\
-  My ever-evolving Emacs configuration, tuned for my workflow. Did someone say org-mode?!
+- 🫩 **Emacs**\
+  My ever-evolving Emacs configuration, tuned for my workflow. Did someone say org-mode 🤩
 
 ## Let's connect!
 
